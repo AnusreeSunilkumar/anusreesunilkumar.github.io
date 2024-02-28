@@ -10,8 +10,8 @@
 * Bio-medical Analysis
 
 ### Education
-- Masters, Information and Communication Engineering | Sun Moon University, Asan, South Korea (2022-Ongoing)
-- Bachelor of Technology, Computer Scienceand Engineering | A.P.J.Abdul Kalam Technological University, Kerala, India (2015-2019)
+- Masters, Information and Communication Engineering | Sun Moon University, Asan, South Korea | (_September 2022 - Ongoing_)
+- Bachelor of Technology, Computer Science and Engineering | A.P.J.Abdul Kalam Technological University, Kerala, India | (_August 2015 - August 2019_)
 
 ### Work Experience
 **Research Assistant @ AIIP Lab, Sun Moon University (_September 2022 - Present_)**
