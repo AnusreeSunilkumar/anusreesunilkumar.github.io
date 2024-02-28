@@ -1,16 +1,7 @@
 title: Anusree Sunilkumar
 logo: /assets/images/anu.jpg
-# Status emoji
-status:
-  icon: 👩‍💻️
+# description: 
 
-# Role/position/tagline
-role: Researcher in Artificial Intelligence and Image Processing
-
-# Organizations/Affiliations to show in About widget
-organizations:
-  - name: Sun Moon University
-    url: https://lily.sunmoon.ac.kr/
+show_downloads: true
 theme: jekyll-theme-minimal
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include Artificial Intelligence, Computer Vision, Medical Image Processing, and 3D Reconstruction
+
