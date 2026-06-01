@@ -68,12 +68,6 @@ My research focuses on **Medical Imaging, Computer Vision, Deep Learning, Dental
 
 **Platform:** TechRxiv, 2023
 
----
-
-## Research Profiles
-
-* [Google Scholar](https://scholar.google.com/citations?user=d6cC47YAAAAJ&hl=en)
-* [ResearchGate](https://www.researchgate.net/profile/Anusree-P-S-3)
 
 ---
 
