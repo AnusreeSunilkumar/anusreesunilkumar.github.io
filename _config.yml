@@ -1,7 +1,12 @@
-title: Anusree Sunilkumar
-logo: /assets/images/anu.jpg
-# description: 
-# Hi! Welcome to my Bio. 
-show_downloads: False
-theme: jekyll-theme-minimal
+title: Anusree P. Sunilkumar
 
+logo: /assets/images/anu.jpg
+
+description: >
+  Vision AI Engineer | AI Researcher
+  specializing in Computer Vision,
+  Medical Imaging, and 3D Reconstruction.
+
+show_downloads: false
+
+theme: jekyll-theme-minimal
