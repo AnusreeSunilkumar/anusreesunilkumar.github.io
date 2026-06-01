@@ -77,4 +77,4 @@ My research focuses on **Medical Imaging, Computer Vision, Deep Learning, Dental
 
 ---
 
-[⬅ Back to Home](./)
+[⬅ Back to Home](../)
