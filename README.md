@@ -48,34 +48,57 @@ I am passionate about bridging cutting-edge research and practical applications 
 
 ## 🛠 Technical Stack
 
-**Languages**
+### Programming Languages
 
-`Python` `C++` `SQL`
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-**AI & Machine Learning**
+### AI & Machine Learning
 
-`PyTorch` `TensorFlow` `Keras`
-`Scikit-Learn` `NumPy` `Pandas`
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
-**Computer Vision**
+### Computer Vision & Imaging
 
-`OpenCV` `YOLO`
-`Image Segmentation`
-`Object Tracking`
-`Stereo Vision`
-`Camera Calibration`
-`3D Reconstruction`
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-Object_Detection-blue?style=flat-square)
+![Segmentation](https://img.shields.io/badge/Image-Segmentation-success?style=flat-square)
+![Tracking](https://img.shields.io/badge/Object-Tracking-orange?style=flat-square)
+![Stereo Vision](https://img.shields.io/badge/Stereo-Vision-purple?style=flat-square)
+![Camera Calibration](https://img.shields.io/badge/Camera-Calibration-red?style=flat-square)
+![3D Reconstruction](https://img.shields.io/badge/3D-Reconstruction-6f42c1?style=flat-square)
 
-**Tools**
+### Software Engineering
 
-`Git` `Docker`
-`Visual Studio`
-`VS Code`
-`PyCharm`
-`JupyterLab`
-`Jira`
-`Confluence`
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white)
 
+### Development Tools
+
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+### Data & Analytics
+
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=flat-square&logo=microsoftsharepoint&logoColor=white)
+![PowerApps](https://img.shields.io/badge/Power_Apps-742774?style=flat-square&logo=powerapps&logoColor=white)
+
+### Collaboration
+
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
 ---
 
 ## 💼 Experience
