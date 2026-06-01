@@ -132,13 +132,15 @@ Developed enterprise solutions using SharePoint, PowerApps, SQL Server, Power BI
 
 ## 📚 Publications
 
-📖 7+ publications in IEEE journals and international conferences covering:
+I have authored and co-authored 7+ publications in IEEE journals and international conferences covering:
 
-* Medical Imaging
-* Dental Imaging
-* Deep Learning
-* Panoramic X-Ray Synthesis
-* 3D Reconstruction
+- Medical Image Analysis
+- Dental Imaging
+- Panoramic X-Ray Synthesis
+- 3D Reconstruction
+- Deep Learning Applications
+
+📖 **[View Full Publication List](publications)**
 
 ---
 
