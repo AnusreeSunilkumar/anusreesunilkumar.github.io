@@ -1,33 +1,142 @@
-# Researcher in AI and Image Processing
+# Hi there 👋 I'm Anusree P. Sunilkumar
 
-### Research Interests
+### Vision AI Engineer | AI Researcher | Computer Vision Enthusiast
+
+I build intelligent vision systems that transform research into real-world products.
+
+My work spans **Computer Vision, Medical Imaging, Image Processing, 3D Reconstruction, and Vision-Guided Automation**. I have experience developing end-to-end AI solutions—from dataset creation and model training to deployment, camera calibration, stereo vision, and production-ready inference systems.
+
+I am particularly interested in bridging the gap between cutting-edge research and practical applications that solve real-world problems.
+
+📍 South Korea
+🎓 M.S. in Information & Communication Engineering
+🔬 7+ Research Publications
+💻 Vision AI | Medical AI | 3D Reconstruction
+
+---
+
+## About Me
+
+I am a Vision AI Engineer currently working on AI-powered nail analysis and vision-guided automation systems. My research background includes medical image analysis, dental imaging, panoramic X-ray synthesis, and 3D oral structure reconstruction.
+
+Over the years, I have worked on:
+
+* AI-based image segmentation
+* Object detection and tracking
+* Camera calibration systems
+* Stereo depth estimation
+* Multi-camera vision systems
+* Medical image analysis
+* 3D reconstruction pipelines
+* Production AI deployment
+
+I enjoy learning new technologies, building innovative products, and exploring the intersection of AI research and software engineering.
+
+---
+
+## Research Interests
+
 * Artificial Intelligence
 * Machine Learning
+* Deep Learning
 * Computer Vision
 * Image Processing
-* Medical Image Processing
+* Medical Image Analysis
 * 3D Reconstruction
-* Bio-medical Analysis
+* Stereo Vision
+* Vision-Guided Automation
+* Biomedical Imaging
 
-### Education
-- Masters, Information and Communication Engineering | Sun Moon University, Asan, South Korea | (_September 2022 - Ongoing_)
-- Bachelor of Technology, Computer Science and Engineering | A.P.J.Abdul Kalam Technological University, Kerala, India | (_August 2015 - August 2019_)
+---
 
-### Work Experience
-**Research Assistant @ AIIP Lab, Sun Moon University (_September 2022 - Present_)**
-- Working on Cross-Modality transfer, 3D reconstruction and Image processing in Dental Imaging Domain.
+## Current Focus
 
-**Systems Engineer @ Infosys, Bangalore, India (_February 2020 - Novemeber 2021_)**
-- Part of the production support team for a record keeping company based in US.
-- Worked on developing, debugging and enhancing applications using SharePoint, PowerApps, MS Acces/Excel, SQL Server and VBA.
-- Automated tasks using RPA, Blueprism.
-- Developed PowerBI dashboards for analysis and reporting.
-- Gave project specific training for teammates.
+🔹 Vision-Guided Automation Systems
+🔹 AI Model Deployment & MLOps
+🔹 Agentic AI Systems
+🔹 Multi-Camera Computer Vision
+🔹 Edge AI Applications
+🔹 Large Vision Models (LVMs)
 
-**Systems Engineer Trainee @ Infosys, Mysore, India (_October 2019 - February 2020_)**
-- Received extensive training on Programming, and Software development.
-- Worked on developing a travel website to provide users with a seamless experience in planning and booking their travel arrangements as part of a training.
+---
+
+## Professional Experience
+
+### Senior AI Researcher | NailTocToc
+
+*March 2026 – Present*
+
+Developing AI solutions for automated nail analysis systems, including dataset engineering, model development, deployment, and monitoring.
+
+### AI Researcher | NailTocToc
+
+*July 2025 – February 2026*
+
+Worked on fingernail detection, segmentation, tracking, stereo depth estimation, and camera calibration systems.
+
+### Research Assistant | AIIP Lab, Sun Moon University
+
+*September 2022 – August 2024*
+
+Conducted research in medical imaging, cross-modality learning, and 3D oral structure reconstruction.
+
+### Systems Engineer | Infosys
+
+*February 2020 – November 2021*
+
+Developed enterprise solutions using SharePoint, PowerApps, SQL Server, VBA, Power BI, and RPA technologies.
+
+---
+
+## Selected Projects
+
+### Vision-Guided Nail Printing System
+
+* Fingernail detection and segmentation
+* Multi-camera calibration
+* Stereo triangulation
+* Real-time tracking
+* Projection mapping
+
+### 3D Oral Structure Reconstruction
+
+* Panoramic X-ray synthesis
+* CBCT analysis
+* Deep learning-based reconstruction
+* Medical image processing pipelines
+
+### Multi-Camera Calibration Framework
+
+* Calibration APIs
+* Stereo parameter estimation
+* 3D coordinate reconstruction
+* Camera system integration
+
+---
 
 ## Publications
-1. S, Anusree P., and Wonsang You. “A Deep Learning Approach to Generating Flattened CBCT Volume Across Dental Arch From 2D Panoramic X-Ray for 3D Oral Cavity Reconstruction.” 2023 International Technical Conference on Circuits/Systems, Computers, and Communications (ITC-CSCC), IEEE, 2023, pp. 1–6. DOI.org (Crossref), https://doi.org/10.1109/ITC-CSCC58803.2023.10212455.
-2. P S, Anusree, et al. CBCT-Guided 3D Dental Structure Reconstruction from Panoramic X-Ray: A Preprocessing Pipeline. preprint, 23 Feb. 2023. DOI.org (Crossref), https://doi.org/10.36227/techrxiv.22146752.v1.
+
+📖 7+ publications in IEEE journals and international conferences covering:
+
+* Medical Image Analysis
+* Dental Imaging
+* Panoramic X-ray Synthesis
+* 3D Reconstruction
+* Deep Learning Applications
+
+---
+
+## Career Vision
+
+I aspire to contribute to the advancement of Computer Vision, Medical AI, and Agentic AI while building intelligent systems that create meaningful impact in healthcare and automation.
+
+---
+
+## Let's Connect
+
+* LinkedIn
+* GitHub
+* Google Scholar
+* ResearchGate
+
+> “Transforming research into intelligent real-world systems through AI and Computer Vision.”
