@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Anusree P. Sunilkumar
+# Hi there 👋 I'm Anusree
 
 ### Vision AI Engineer | AI Researcher
 
