@@ -132,11 +132,14 @@ I aspire to contribute to the advancement of Computer Vision, Medical AI, and Ag
 
 ---
 
-## Let's Connect
+## 🌐 Connect With Me
 
-* LinkedIn
-* GitHub
-* Google Scholar
-* ResearchGate
+🔗 LinkedIn: https://www.linkedin.com/in/anusree-p-sunilkumar-029803165/ 
+
+🎓 Google Scholar: https://scholar.google.com/citations?user=d6cC47YAAAAJ&hl=en
+
+📚 ResearchGate: https://www.researchgate.net/profile/Anusree-P-S-3?ev=hdr_xprf
+
+💻 GitHub: https://github.com/AnusreeSunilkumar
 
 > “Transforming research into intelligent real-world systems through AI and Computer Vision.”
