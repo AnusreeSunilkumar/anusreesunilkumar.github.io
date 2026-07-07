@@ -97,15 +97,9 @@ I am passionate about bridging cutting-edge research and practical applications 
 
 ## 💼 Experience
 
-### Senior AI Researcher | NailTocToc
-
-**Mar 2026 – Present**
-
-Developing AI-powered vision systems including dataset engineering, model training, deployment, and monitoring.
-
 ### AI Researcher | NailTocToc
 
-**Jul 2025 – Feb 2026**
+**Nov 2024 – Present**
 
 Developed fingernail detection, segmentation, tracking, stereo depth estimation, and camera calibration systems.
 
