@@ -111,7 +111,7 @@ Conducted research in medical imaging, cross-modality learning, and 3D oral stru
 
 ### Systems Engineer | Infosys
 
-**Feb 2020 – Nov 2021**
+**Oct 2019 – Nov 2021**
 
 Developed enterprise solutions using SharePoint, PowerApps, SQL Server, Power BI, and RPA technologies.
 
